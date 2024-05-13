@@ -41,6 +41,8 @@ Borrow out = A'Bin + A'B + BBin
 **Procedure**
 
 Write the detailed procedure here
+DEVELOPED BY:SORNAKUMAR.S
+REGISTER NUMBER:212223230210
 
 **Program:**
 ```
